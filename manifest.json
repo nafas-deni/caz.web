@@ -2,7 +2,7 @@
     "name": "nafascaztablet",
     "short_name": "nafascaztablet",
     "start_url": "./",
-    "scope": "caz.web",
+    "scope": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
