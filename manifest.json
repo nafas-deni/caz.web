@@ -1,8 +1,8 @@
 {
     "name": "nafascaztablet",
     "short_name": "nafascaztablet",
-    "start_url": "./caz.web",
-    "scope": ".",
+    "start_url": "./",
+    "scope": "caz.web",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
