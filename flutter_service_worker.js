@@ -4,15 +4,16 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "fd5b5a5338a0aaaeece4334043966bcc",
-"index.html": "2f5d3a1dfe8d5076df7c5c199931f287",
-"/": "2f5d3a1dfe8d5076df7c5c199931f287",
+"index.html": "9d69747eb29fe820a8b65edbc7ebab6d",
+"/": "9d69747eb29fe820a8b65edbc7ebab6d",
 "main.dart.js": "f2933781015bcab3e5a3836132c4a669",
+"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "8a88d3eab836c71f0e2a8a65a42aab93",
+"manifest.json": "a130ce6a09c6df861d77959c16751ee1",
 "assets/AssetManifest.json": "a3331e387f5a071fc9c5b11c8b05a72a",
 "assets/NOTICES": "9fb87d7d706ae5e399cf8fd20be955c9",
 "assets/FontManifest.json": "51cca9463feaef9b1d20f6b97712af8e",
@@ -89,7 +90,11 @@ const RESOURCES = {
 "assets/assets/fonts/titillium/TitilliumWeb-BoldItalic.ttf": "cffdbe92e1d7e1c0e730b89aabc4ee11",
 "assets/assets/fonts/titillium/TitilliumWeb-ExtraLightItalic.ttf": "347c2449963064a73858ca1e0dd3a4da",
 "assets/assets/fonts/titillium/TitilliumWeb-SemiBoldItalic.ttf": "20d8982e3d57983b66ae8dfcdcf48501",
-"assets/assets/fonts/titillium/TitilliumWeb-Light.ttf": "71d53d9506f88f09a25f326f29de4201"
+"assets/assets/fonts/titillium/TitilliumWeb-Light.ttf": "71d53d9506f88f09a25f326f29de4201",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
